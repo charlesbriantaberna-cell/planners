@@ -7,5 +7,5 @@
       or, for local testing against XAMPP on the same WiFi:
         http://192.168.1.10/student_planner/login.php
     -->
-    <string name="app_url">http://127.0.0.1:8000/login.php</string>
+    <string name="app_url">http://192.168.254.115:8000/login.php</string>
 </resources>
